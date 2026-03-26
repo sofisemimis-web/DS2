@@ -1,0 +1,14 @@
+C:\Users\LENOVO\source\repos\Project_Csharp_Repositorio\DS\Menu_Calculos\bin\Debug\Menu_Calculos.exe.config
+C:\Users\LENOVO\source\repos\Project_Csharp_Repositorio\DS\Menu_Calculos\bin\Debug\Menu_Calculos.exe
+C:\Users\LENOVO\source\repos\Project_Csharp_Repositorio\DS\Menu_Calculos\bin\Debug\Menu_Calculos.pdb
+C:\Users\LENOVO\source\repos\Project_Csharp_Repositorio\DS\Menu_Calculos\obj\Debug\Menu_Calculos.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\Project_Csharp_Repositorio\DS\Menu_Calculos\obj\Debug\Menu_Calculos.CalcRadio.resources
+C:\Users\LENOVO\source\repos\Project_Csharp_Repositorio\DS\Menu_Calculos\obj\Debug\Menu_Calculos.CalculadoraPlus.resources
+C:\Users\LENOVO\source\repos\Project_Csharp_Repositorio\DS\Menu_Calculos\obj\Debug\Menu_Calculos.CALCULOS.resources
+C:\Users\LENOVO\source\repos\Project_Csharp_Repositorio\DS\Menu_Calculos\obj\Debug\Menu_Calculos.Formularios.MDI_Menu.resources
+C:\Users\LENOVO\source\repos\Project_Csharp_Repositorio\DS\Menu_Calculos\obj\Debug\Menu_Calculos.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\Project_Csharp_Repositorio\DS\Menu_Calculos\obj\Debug\Menu_Calculos.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\Project_Csharp_Repositorio\DS\Menu_Calculos\obj\Debug\Menu_Calculos.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Project_Csharp_Repositorio\DS\Menu_Calculos\obj\Debug\Menu_Calculos.exe
+C:\Users\LENOVO\source\repos\Project_Csharp_Repositorio\DS\Menu_Calculos\obj\Debug\Menu_Calculos.pdb
+C:\Users\LENOVO\source\repos\Project_Csharp_Repositorio\DS\Menu_Calculos\obj\Debug\Menu_Calculos.exe.config
